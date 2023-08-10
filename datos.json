@@ -1,0 +1,20 @@
+{
+  "shemas": {
+    "user": {
+      "name": "string",
+      "email": "string",
+      "password": "string",
+      "role": "string",
+      "createdAt": "date",
+      "updatedAt": "date"
+    },
+    "post": {
+      "title": "string",
+      "content": "string",
+      "author": "string",
+      "createdAt": "date",
+      "updatedAt": "date"
+    }
+  }
+
+}
